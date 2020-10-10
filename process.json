@@ -1,0 +1,13 @@
+{
+  "apps": [
+    {
+      "name": "apis",
+      "script": "bin/www",
+      "node_args": "--max_old_space_size=10240",
+      "max_memory_restart":"1G",
+      "time":true,
+     "instances" : "max",
+     "exec_mode" : "cluster"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+	"success": "success hindi",
+	"PWNDING_REQUEST": "PWNDING_REQUEST",
+	"SOME_ERROR": "SOME_ERROR",
+	"WRONG_DATA": "WRONG_DATA",
+	"GUEST_TOKEN_SUCCESS": "GUEST_TOKEN_SUCCESS",
+	"Wrong_data": "Wrong_data",
+	"invalid_phone": "invalid_phone",
+	"otp_success": "otp_success",
+	"register_success": "register_success",
+	"USER_AND_CAMPAIGN": "USER_AND_CAMPAIGN",
+	"APPLICATION_ACCEPTED": "APPLICATION_ACCEPTED",
+	"WITHDRAWL_REQUEST_CANCELLED": "WITHDRAWL_REQUEST_CANCELLED",
+	"WEB_LINK": "WEB_LINK",
+	"SUCCESS": "SUCCESS",
+	"Success": "Success",
+	"Bad Token": "Bad Token",
+	"BAD_TOKEN": "BAD_TOKEN"
+}
